@@ -32,7 +32,6 @@ class ReceiptModel extends Model
 					customer_name,
 					imagepath,
 					description,
-					user_id,
-					
-					]
-}
+					user_id,];
+
+    }
